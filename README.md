@@ -3,6 +3,6 @@
 ## Requisitos:
 Para desarrollar estos tutos es necesario tener instalado Node.js.
 
-``https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#debian-and-ubuntu-based-linux-distributions``
+``https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager``
 
 
