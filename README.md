@@ -3,7 +3,7 @@
 ## Requisitos:
 Para desarrollar estos tutos es necesario tener instalado Node.js.
 
-# Distros:
+# Package manager:
 ``https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager``
 
 # Installing/Building:
