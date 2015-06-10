@@ -9,4 +9,13 @@ Para desarrollar estos tutos es necesario tener instalado Node.js.
 ### Installing/Building:
 `https://github.com/joyent/node/wiki/Installation`
 
-En esta versión estamos usando Node.js: v0.10.38
+### Versions:
+
+`$ node -e 'console.log(process.versions)'
+ { http_parser: '2.3',
+   node: '0.12.4',
+   v8: '3.28.71.19',
+   uv: '1.5.0',
+   zlib: '1.2.8',
+   modules: '14',
+   openssl: '1.0.1m' }`
